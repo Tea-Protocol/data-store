@@ -1,0 +1,24 @@
+{
+  "name": "@shawncvv/data-store",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "utils",
+    "color"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tea-Protocol/data-store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tea-Protocol/data-store/issues"
+  },
+  "homepage": "https://github.com/Tea-Protocol/data-store#readme",
+  "devDependencies": {}
+}
